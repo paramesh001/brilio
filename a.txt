@@ -1,1 +1,2 @@
 this is my first line in a.txt
+this is my secong line
